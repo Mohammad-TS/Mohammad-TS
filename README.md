@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at *home*
 - 🌱 I’m currently learning at *(https://learn.microsoft.com)*
-
+## ✨skills ✨
 - **Programming Languages**
 	<center>
 		<table>
@@ -96,7 +96,8 @@ Here are some ideas to get you started:
 			</tbody>
 		</table>
 	</center>
-C# Code:
+## ✨hello user C# Code:) ✨
+
 ```C#
 using System;
 using System.Collections.Generic;
