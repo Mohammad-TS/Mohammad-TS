@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]()
 <h1 align="center">Hi guys👋 , im  mohammad mahdi arbabi </h1>
 <h3 align="center">front-end developer from Iran</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 
  I am a programmer in the field of `html, css, sql server and bootstrap` I am learning more...
@@ -55,7 +55,35 @@ Here are some ideas to get you started:
 			</tbody>
 		</table>
 	</center>
-
+- **Cloud Platforms**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+     <td width="25%" align="center">
+						<span><strong>Azure</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Others**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+     <td width="25%" align="center">
+						<span><strong>github</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+					</td>
+     <td width="25%" align="center">
+						<span><strong>Arduino</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+					</td>
+			</tbody>
+		</table>
+	</center>
 C# Code:
 ```C#
 using System;
@@ -74,9 +102,6 @@ namespace hellouser
             
             Console.ReadKey();
         }
-        
-
-
     }
 }
 ```
