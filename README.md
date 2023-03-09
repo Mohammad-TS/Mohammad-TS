@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]()
 <h1 align="center">Hi guys👋 , im  mohammad mahdi arbabi </h1>
 <h3 align="center">front-end developer from Iran</h3><p align="center">
-<a href="https://www.linkedin.com/in/mohammad-mahdi-arbabi-4650a0269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
-<a href="http://instagram.com/mohammad_ts_84?utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayaadhav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-mahdi-arbabi-4650a0269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="http://instagram.com/mohammad_ts_84?utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
