@@ -102,19 +102,16 @@ I am a programmer in the field of `html, css, sql server and bootstrap` I am lea
 ```C#
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-
-namespace hellouser
+ 
+namespace ConsoleApplication1
 {
-    internal class hello-world
-
+    class Program
     {
+        static void Main(string[] args)
         {
-            Console.WriteLine("hello, world!");
-            
-            Console.ReadKey();
+            Console.WriteLine("Hello, world!");
+            Console.ReadLine();
         }
     }
 }
