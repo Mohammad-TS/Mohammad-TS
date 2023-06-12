@@ -53,6 +53,10 @@ I am a programmer in the field of `html, css, sql server and bootstrap` I am lea
 						<span><strong>Bootstrap</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 					</td>
+					<td align="center">
+						<span><strong>vscode</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+					</td>
 			</tbody>
 		</table>
 	</center>
