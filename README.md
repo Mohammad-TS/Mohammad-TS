@@ -94,9 +94,14 @@ I am a programmer in the field of `html, css, sql server and bootstrap` I am lea
 						<span><strong>github</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
 					</td>
+					
      <td width="25%" align="center">
 						<span><strong>Arduino</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>git</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
 					</td>
 			</tbody>
 		</table>
